@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Tanmayee Mandala
 title: Data Analyst
 email: tanmayee.mandala1@gmail.com
-website: www.github.com/tanmayee_mandala/resume
+website: www.github.com/tanmayeemandala/tanmayee_mandala.github.io
 
 # Social links
 #twitter_username: facespics
@@ -28,7 +28,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Excellent interpersonal, communication and presentation skills. Highly motivated leader and professional, detail-oriented and proficient at building and maintaining professional relationships. Experienced in fast-paced environments while performing with a positive attitude and diligent approach towards personal and professional growth and yield. Have a strong predilection for turning data into information, information into insight and insight into business decisions.
   
-Core Competencies:
+<mark>Core Competencies</mark>
   - Lean & Six Sigma
   - Operations management
   - Data analytics & visualization
@@ -37,13 +37,14 @@ Core Competencies:
   - Business Intelligence
   - Data Analyst
   - Business Data Analyst
-Technical Skills:
-  - Languages: Python
-  - Statistical Tools: R, Minitab, SAS
-  - Database: MS SQL
-  - Optimization Tool: AMPL
-  - Visualization Tools: Tableau, Microsoft Power BI
-  - Tools: Simio, AutoCAD, Microsoft Office
+  
+<mark>Technical Skills</mark>
+  - <mark>Languages:</mark> Python
+  - <mark>Statistical Tools:</mark> R, Minitab, SAS
+  - <mark>Database:</mark> MS SQL
+  - <mark>Optimization Tool:</mark> AMPL
+  - <mark>Visualization Tools:</mark> Tableau, Microsoft Power BI
+  - <mark>Other Tools:</mark> Simio, AutoCAD, Microsoft Office
 
 #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -77,4 +78,6 @@ sass:
 
 plugins:
   - jekyll-seo-tag
+
+# Dark Mode - True / False  
 darkmode: true
