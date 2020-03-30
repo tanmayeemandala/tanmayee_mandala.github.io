@@ -28,7 +28,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Excellent interpersonal, communication and presentation skills. Highly motivated leader and professional, detail-oriented and proficient at building and maintaining professional relationships. Experienced in fast-paced environments while performing with a positive attitude and diligent approach towards personal and professional growth and yield. Have a strong predilection for turning data into information, information into insight and insight into business decisions.
   
-Core Competencies
+  <mark>Core Competencies</mark>
   - Lean & Six Sigma
   - Operations management
   - Data analytics & visualization
@@ -38,7 +38,7 @@ Core Competencies
   - Data Analyst
   - Business Data Analyst
   
-Technical Skills
+  <mark>Technical Skills</mark>
   - <mark>Languages:</mark> Python
   - <mark>Statistical Tools:</mark> R, Minitab, SAS
   - <mark>Database:</mark> MS SQL
