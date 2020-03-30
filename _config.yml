@@ -1,32 +1,52 @@
 # Site
-repository: sproogen/resume-theme
+repository: tanmayeemandala/resume
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Tanmayee Mandala
+title: Data Analyst
+email: tanmayee.mandala1@gmail.com
+website: www.github.com/tanmayee_mandala/resume
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  tanmayeemandala
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+#instagram_username: chillwildlife
+linkedin_username: tmandal1
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+#about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Brett and I'm a senior network system administrator. I am a results-driven, solutions-oriented and insightful industrial and systems engineer who is passionate with extensive experience in data analysis, data mining, quality, reliability, continuous process improvement, lean six sigma and operations management. Enthusiastic team player with well-developed troubleshooting and analytical abilities. Skilled in performing root-cause analysis, conceptualizing, data visualization, developing and implementing solutions for better quality outcomes, resources optimization, and waste reduction. Good understanding of Quality system standards ISO 9001.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Excellent interpersonal, communication and presentation skills. Highly motivated leader and professional, detail-oriented and proficient at building and maintaining professional relationships. Experienced in fast-paced environments while performing with a positive attitude and diligent approach towards personal and professional growth and yield. Have a strong predilection for turning data into information, information into insight and insight into business decisions.
+
+Core Competencies:
+• Lean & Six Sigma
+• Operations management
+• Data analytics & visualization
+• Continuous process improvement
+• Quality and Reliability
+• Business Intelligence
+• Data Analyst
+• Business Data Analyst
+
+Technical Skills:
+• Languages: Python
+• Statistical Tools: R, Minitab, SAS
+• Database: MS SQL
+• Optimization Tool: AMPL
+• Visualization Tools: Tableau, Microsoft Power BI
+• Tools: Simio, AutoCAD, Microsoft Office
+  
+#I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
 # projects_title: Projects
