@@ -1,5 +1,5 @@
 # Site
-repository: tanmayeemandala/resume
+repository: tanmayeemandala/tanmayee_mandala.github.io
 favicon: images/favicon.ico
 
 # Personal info
@@ -15,20 +15,20 @@ github_username: tanmayeemandala
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: chillwildlife
-linkedin_username: tmandal1
+linkedin_username: tanmayee-mandala-9b594a156
 # pinterest_username: jekyll
-#youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
 #about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. I am a results-driven, solutions-oriented and insightful industrial and systems engineer who is passionate with extensive experience in data analysis, data mining, quality, reliability, continuous process improvement, lean six sigma and operations management. Enthusiastic team player with well-developed troubleshooting and analytical abilities. Skilled in performing root-cause analysis, conceptualizing, data visualization, developing and implementing solutions for better quality outcomes, resources optimization, and waste reduction. Good understanding of Quality system standards ISO 9001.
+  Hi, my name is Tanmayee Mandala and working as an Data Analyst. I am a results-driven, solutions-oriented and insightful industrial and systems engineer who is passionate with extensive experience in data analysis, data mining, quality, reliability, continuous process improvement, lean six sigma and operations management. Enthusiastic team player with well-developed troubleshooting and analytical abilities. Skilled in performing root-cause analysis, conceptualizing, data visualization, developing and implementing solutions for better quality outcomes, resources optimization, and waste reduction. Good understanding of Quality system standards ISO 9001.
 
   Excellent interpersonal, communication and presentation skills. Highly motivated leader and professional, detail-oriented and proficient at building and maintaining professional relationships. Experienced in fast-paced environments while performing with a positive attitude and diligent approach towards personal and professional growth and yield. Have a strong predilection for turning data into information, information into insight and insight into business decisions.
 
-Core Competencies:
+core Competencies:
   - Lean & Six Sigma
   - Operations management
   - Data analytics & visualization
@@ -38,7 +38,7 @@ Core Competencies:
   - Data Analyst
   - Business Data Analyst
 
-Technical Skills:
+technical Skills:
   - Languages: Python
   - Statistical Tools: R, Minitab, SAS
   - Database: MS SQL
